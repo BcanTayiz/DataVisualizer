@@ -1,11 +1,10 @@
-import streamlit as st
+#import streamlit as st
 import pandas as pd
 import numpy as np
 import seaborn as sns
 from matplotlib import pyplot
 from pandas.api.types import is_string_dtype
 from pandas.api.types import is_numeric_dtype
-from googletrans import Translator
 import os
 import base64
 import xlsxwriter
